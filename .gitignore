@@ -1,0 +1,8 @@
+
+*.snap
+.metadata/.plugins/org.eclipse.core.resources/.projects/Feb15_GitProject/.syncinfo.snap
+.metadata/.plugins/org.eclipse.core.resources/.projects/Feb15_GitProject/.markers.snap
+.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap
+.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+.metadata/.plugins/org.eclipse.core.resources/0.snap
+.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml
