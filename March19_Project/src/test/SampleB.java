@@ -17,6 +17,7 @@ public class SampleB {
 		x.add(20);//1
 		x.add(50);//2
 		
+		
 		System.out.println(x);
 		
 		x.add(1, 30);//1
