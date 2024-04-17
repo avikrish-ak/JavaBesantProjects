@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="methods" name="Failed suite [Suite]">
+  <test parallel="methods" name="Test(failed)" preserve-order="false">
+    <classes>
+      <class name="test.SampleA2">
+        <methods>
+          <include name="IEExecution"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
